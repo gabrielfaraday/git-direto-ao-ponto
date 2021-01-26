@@ -5,3 +5,7 @@ Este é um arquivo de exemplo
 
 
 Esta é a segunda alteração.
+
+
+
+Esta é a terceira alteração.
