@@ -1,17 +1,7 @@
-Este é um arquivo de exemplo
+Este é um arquivo que eu editei após o primeiro exemplo
+
+Fiz segunda alteração no arquivo.
 
 
 
-
-
-Esta é a segunda alteração.
-
-
-
-Esta é a terceira alteração.
-
-
-adahgdhjagsdahsdhasdhjfasfdysa
-
-
-asdas
+Fiz esta terceira alteração após a orientação - tereira alteração.
