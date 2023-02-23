@@ -17,6 +17,6 @@ A grande maioria dos conceitos e comandos utilizados no dia a dia são sempre os
 
 # about me
 
-Para conhecer mais sobre meu trabalho e acompanhar meus conteúdos, acesse https://about.me/gabrielfaraday
+Para conhecer mais sobre meu trabalho e acompanhar meus conteúdos, acesse https://www.gabrielfaraday.com/
 
 
